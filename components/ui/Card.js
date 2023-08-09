@@ -48,6 +48,7 @@ const styles = StyleSheet.create({
   instruction: {
     color: "white",
     fontSize: 24,
+    marginBottom: 12,
   },
   buttonContainer: {
     flex: 1,
